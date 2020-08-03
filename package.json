@@ -16,6 +16,7 @@
     "slugid": "^2.0.0"
   },
   "devDependencies": {
+    "amqplib": "^0.6.0",
     "mocha": "^8.1.0"
   }
 }
